@@ -4,8 +4,7 @@ import java.io.File;
 import java.util.Map;
 import static io.restassured.RestAssured.given;
 
-public class BaseTest extends ApiKeySt{
-    protected static final String BASE_URI = "https://101d9111-dd5a-4f1b-b26c-69d993af6f6c.mock.pstmn.io";
+public class BaseTest extends Storage {
 
     public Response getRequest(String path){
         return given()
