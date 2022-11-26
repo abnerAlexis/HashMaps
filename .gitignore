@@ -1,0 +1,7 @@
+# Project exclude paths
+/shelf/
+.idea/workspace.xml
+/target/
+ApiKeySt.java
+InsuranceData1.java
+InsuranceData2.java
