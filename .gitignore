@@ -1,6 +1,4 @@
 # Project exclude paths
-/shelf/
-.idea/workspace.xml
 /target/
 Storage.java
 InsuranceData1.java
